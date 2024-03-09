@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200..800&display=swap');
+
+html {
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Assistant", sans-serif !important;
+}
+
+body {
+  background: #F5F5FA;
+  /* background-color: #101828; */
+  /* color: lightgray; */
+}
